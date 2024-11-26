@@ -1,1 +1,2 @@
 # Patch_Inpainting
+The project focuses on implementing the exemplar-based inpainting algorithm described in the 2004 paper by Criminisi, Pérez, and Toyama, titled 'Region Filling and Object Removal by Exemplar-Based Image Inpainting,' published in the IEEE Transactions on Image Processing.
